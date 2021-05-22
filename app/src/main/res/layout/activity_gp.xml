@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:textStyle="italic"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="40dp"/>
+
+    <ImageView
+        android:id="@+id/p1"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/p1"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.49"
+        app:layout_constraintTop_toBottomOf="@id/text"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.014"
+        android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:id="@+id/p2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/p2"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.49"
+        app:layout_constraintTop_toBottomOf="@id/text"
+        app:layout_constraintStart_toEndOf="@id/p1"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="30dp"/>
+
+    <ImageView
+        android:id="@+id/p3"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/p3"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.49"
+        app:layout_constraintTop_toBottomOf="@id/p1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.014"/>
+
+    <ImageView
+        android:id="@+id/p4"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/p4"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.49"
+        app:layout_constraintTop_toBottomOf="@id/p2"
+        app:layout_constraintStart_toEndOf="@id/p3"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <ImageView
+        android:id="@+id/p5"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/p5"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.49"
+        app:layout_constraintTop_toBottomOf="@id/p3"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.014"/>
+
+    <ImageView
+        android:id="@+id/p6"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:src="@drawable/p6"
+        app:layout_constraintHeight_percent="0.2"
+        app:layout_constraintWidth_percent="0.49"
+        app:layout_constraintTop_toBottomOf="@id/p4"
+        app:layout_constraintStart_toEndOf="@id/p5"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

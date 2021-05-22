@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Barbosa</string>
+    <string name="a"></string>
+    <string name="c">Charcos</string>
+    <string name="m">Alto de la Virgen</string>
+    <string name="h">Historia</string>
+    <string name="p">Parque de las Aguas</string>
+    <string name="b">Ver imágenes</string>
+    <string name="cd">Este es el principal turístico más importante y lo constituyen las aguas del municipio. \n
+        Gracias a estos bellos y limpios charcos, cascadas o ríos, permanentemente hay turistas provenientes de diferentes municipios del departamento durante los fines de semana, días festivos y vacaciones. \n
+        Existen diferentes senderos que te llevan directamente a los charcos, en los cuales, los visitantes pueden disfrutar de estos ambientes abiertos al público para hacer “paseos de olla” o “baños de quebrada”. \n
+        Merecen destacarse entre otros, los siguientes charcos y quebradas: Santa Rosa, Dos Quebradas, La Cascada, La Playita, Los Búcaros, Aguas Claras.</string>
+    <string name="md">El Alto de la Virgen, más concocido como “El Morro” es un lugar en el que puedes ir a disfrutar de un aire un poco más limpio y un ambiente más callado. \n
+        Queda ubicado dentro de la zona urbana, debes caminar 5 minutos para llegar allí. \n
+        Allí las personas van con niños para elevar cometa, pasear el perro o simplemente disfrutar de un ambiente más agradable en las tardes. \n
+        Cuando subes puedes apreciar una vista panorámica total del municipio de Barbosa. \n
+        Desde allí se ve el atardecer y es un buen lugar para estar tranquilo.</string>
+    <string name="hd">En las veredas de Barbosa podemos encontrar caminos prehispánicos, caminos construidos antes de la llegada de los españoles. \n
+        Los cuales comunicaban comunidades, con el fin de realizar trueques.\n \n
+        En Barbosa podemos encontrar dos parques, el principal llamado “Parque Simón Bolívar” y el de arriba llamado “Parque Diego Echavarría Misas”\n
+        Ambos son lugares acogedores donde te puedes sentar y hablar tranquilamente. Tienen bastantes árboles y palmeras que hacen que los parques se vean muy bonitos.\n \n
+        Barbosa es conocida como el pueblo de la piña.
+        Gracias a sus condiciones geográficas, se produce panela, café y piña. \n
+        A propósito de esta comercialización nace la celebración principal del pueblo llamada “Las Fiestas de la Piña”, las cuales se realizan en la segunda semana del mes de diciembre, esta llega cargada de conciertos, desfiles, concursos y juegos.\n</string>
+    <string name="pd">El Parque de las Aguas está ubicado en el corregimiento Filoverde, en el kilómetro 23 de la Autopista Norte entre Girardota y Barbosa.\n
+        Por sus condiciones especiales de topografía, clima y ubicación, se constituye en un sitio de gran valor ecológico para la recreación familiar.\n
+        Con un área total de 107 a 120 hectáreas, esta gran obra, ha sido concebida como proyección hacia el futuro, lo que garantiza la respuesta a muchos años de demanda del territorio nacional ​e inclusive del exterior.\n
+        Cuenta con 12 toboganes, una piscina infantil, el río lento, una piscina de olas y muchas más atracciones.</string>
+</resources>
